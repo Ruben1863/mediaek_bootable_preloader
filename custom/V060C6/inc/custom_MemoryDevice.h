@@ -104,6 +104,6 @@
 
 #define BOARD_ID                MT6580_EVB
 
-
+#define CS_PART_NUMBER[0]	F722MB
 
 #endif /* __CUSTOM_MEMORYDEVICE__ */
